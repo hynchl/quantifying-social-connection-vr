@@ -1,0 +1,11 @@
+numpy
+scipy
+pandas
+matplotlib
+seaborn
+librosa
+shap
+qpsolvers
+ipykernel
+portion
+pingouin

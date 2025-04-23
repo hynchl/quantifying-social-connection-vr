@@ -1,1 +1,9 @@
 preprocessing/VoiceActivityProjection/
+data/*/
+.Rhistory
+analysis/__pycache__/
+analysis/_utterances/
+analysis/processed/
+analysis/results/
+analysis/images/
+analysis/p1d/
